@@ -1,0 +1,9 @@
+.flag{
+    width: 100%;
+    height: 1200px;
+    background-color: red;
+    background-image: -webkit-linear-gradient(top, orange 400px,white 400px,white 800px,green 800px);
+}
+body{
+    margin: 0px;
+}
